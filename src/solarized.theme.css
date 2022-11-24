@@ -44,7 +44,7 @@
 
 /* chat content */
 .theme-dark .chatContent-3KubbW {
-  background: #002b36;
+  background: #002b3673 !important;
 }
 .theme-dark .scroller-kQBbkU::-webkit-scrollbar {
   width: 10px;
@@ -57,7 +57,7 @@
 }
 
 .theme-dark .form-3gdLxP::before {
-  background: #002b36;
+  background: #002b3673 !important;
 }
 
 /* member bar */
@@ -130,4 +130,157 @@ filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%
 
 .inner-2pOSmK {
       background: #061b20;
+}
+
+
+/* frnd list */
+.scroller-WSmht3, .searchBar-3TnChZ, .quickswitcher-pKcM9U {
+  background: #01222B;
+}
+
+.scroller-kQBbkU, .peopleColumn-1wMU14 {
+  background: #1E323B;
+}
+
+.searchBarComponent-3N7dCG, .input-3r5zZY {
+  background: #061b20 !important;
+}
+
+.contentDefault-17ewQQ,
+.contentUnread-1_MVDK,
+.scroller-2qwVWY {
+  background: #073642;
+}
+
+.theme-dark .scroller-2qwVWY::-webkit-scrollbar,
+.peopleList-2VBrVI::-webkit-scrollbar {
+  width: 10px;
+}
+.theme-dark .scroller-2qwVWY::-webkit-scrollbar-track,
+.peopleList-2VBrVI::-webkit-scrollbar-track {
+  background: #00323f;
+}
+.theme-dark .scroller-2qwVWY::-webkit-scrollbar-thumb,
+.peopleList-2VBrVI::-webkit-scrollbar-thumb {
+  background: #000c0f;
+}
+
+.theme-dark .layerContainer-2v_Sit > div:first-child {
+  background: #586e75c3 !important;
+}
+
+/* create server */
+.container-1Lk8p7 {
+  background: #002b36;
+  box-shadow: none!important;
+}
+
+.container-1Lk8p7 > div:nth-child(2n), .focusLock-2tveLW {
+  background: #002b36 !important;
+  color: #fff!important;
+}
+
+.footerSeparator-VzAYwb {
+  background: #073642;
+    color: #fff!important;
+}
+
+.defaultColor-24IHKz {
+  color: #fff !important;
+}
+
+.container-x8Y1ix {
+  background: #073642;
+}
+
+.container-ZMc96U, .scroller-hE2gWq {
+  background: #073642!important;
+}
+
+.itemCard-3Etziu {
+  background: #002b36;
+}
+
+.section-3G9aLW {
+  background: #073642;
+}
+
+.actionButton-3-B2x- {
+  background: #073642;
+  border: 1px solid #002b36;
+}
+
+.actionButton-3-B2x- svg, .linkButtonIcon-7rsZcu, .scroller-WSmht3 svg path {
+  filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important;
+}
+
+.overflow-1wOqNV,
+.name-2m3Cms,
+.username-3JLfHz {
+  color: #8ad9ec !important;
+}
+
+.activityText-ev7Z1T, .text-MPIeXO {
+    color: #6aabbb;
+}
+
+.numberBadge-37OJ3S {
+  color: #f2fcff;
+  background: #249bb9 !important;
+}
+
+.offerBadge-1KDtMz {
+  color: #f2fcff !important;
+  background: linear-gradient(to right, #249bb9,#268bd2);
+}
+
+.item-2LIpTv {
+  background: #00b9e7;
+}
+
+.container-ZMc96U svg path {
+filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important;
+}
+
+.selected-g-kMVV {
+  background: #000c0f;
+}
+
+.sidebar-1tnWFu {
+  background: #01222B;
+}
+
+.scroller-3j5xK2 {
+  background: #073642;
+}
+
+.card-2TuZPZ {
+    background: #01222B !important;
+}
+
+.mention  {
+  background: #0084a569 !important;
+  padding: 4px!important;
+  border-radius: 6px!important;
+  font-size: 15.5px;
+}
+
+.timestamp-p1Df1m {
+  color: #7be5ff69 !important;
+}
+
+.scroller-1ox3I2 svg path, .addButtonIcon-3rJeaD {
+ filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important; 
+}
+
+.name-28HaxV {
+    color: #8dfbff !important;
+}
+
+.scroller-1bVxF5, .selected-1GtAC5 {
+  background: #002b36;
+}
+
+.scroller-1bVxF5 svg {
+  filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important; 
 }
