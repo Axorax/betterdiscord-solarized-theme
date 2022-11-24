@@ -1,0 +1,133 @@
+/*
+ * @name Solarized
+ * @author Axorax#5033
+ * @version 1.0.0
+ * @source https://github.com/Axorax/betterdiscord-solarized-theme
+ * @website https://axorax.github.io/betterdiscord-solarized-theme
+ * @patreon https://patreon.com/axorax
+ * @description Solarized theme for Discord
+ * @authorId 1023153441624821791
+ * @invite nKUFghjXQu
+*/
+
+/* Theme Dark */
+
+/* discord logo in server icon bar */
+.theme-dark .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub, .wrapper-3kah-n:hover .childWrapper-1j_1ub {
+  background-color: #268bd2;
+}
+
+.theme-dark .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub svg path, .wrapper-3kah-n:hover .childWrapper-1j_1ub svg path {
+  fill: #fdf6e3;
+}
+
+.theme-dark .homeIcon-r0w4ny path {
+  fill: #eee8d5;
+}
+
+.theme-dark .childWrapper-1j_1ub {
+  background: #001a20;
+}
+
+/* Side server icon bar */
+.theme-dark .scroller-3X7KbA {
+  background: #002B36;
+}
+/* channel scroll, user pfp area thing */
+.theme-dark .scroller-1ox3I2, .header-3OsQeK {
+  background: rgb(1, 34, 43);
+}
+
+.theme-dark .container-YkUktl {
+  background: rgb(7, 28, 34);
+}
+
+/* chat content */
+.theme-dark .chatContent-3KubbW {
+  background: #002b36;
+}
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar {
+  width: 10px;
+}
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar-track {
+  background: #00323f;
+}
+.theme-dark .scroller-kQBbkU::-webkit-scrollbar-thumb {
+  background: #000c0f;
+}
+
+.theme-dark .form-3gdLxP::before {
+  background: #002b36;
+}
+
+/* member bar */
+.theme-dark .members-3WRCEx, .theme-dark .membersWrap-3NUR2t, .theme-dark .layout-1qmrhw, .theme-dark .member-2gU6Ar {
+  background: #073642;
+  border-color: #073642;
+}
+
+.theme-dark .username-u-ebrn {
+  color: #fdf6e3;
+}
+
+.theme-dark .markup-eYLPri {
+  color: #fdf6e3;
+}
+
+.theme-dark .username-h_Y3Us {
+    color: #fffdf9;
+}
+
+/* top bar */
+.theme-dark .title-31SJ6t, .theme-dark .children-3xh0VB::after {
+  background: #073642 !important;
+}
+
+/* top search bar */
+.theme-dark .searchBar-jGtisZ {
+    background: #061b20;
+}
+
+/* chat box */
+.theme-dark .scrollableContainer-15eg7h {
+  background: #061b20;
+}
+
+.theme-dark .title-31SJ6t svg path, .theme-dark .contents-3ca1mk svg path,
+.theme-dark .scrollableContainer-15eg7h svg path, .sprite-2lxwfc {
+  filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important;
+}
+
+.theme-dark .circleIconButton-1VxDrg {
+  background: #073642;
+}
+
+.theme-dark .circleIconButton-1VxDrg svg path {
+filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important;
+}
+
+/* settings menu */
+.sidebarRegionScroller-FXiQOh {
+  background: #002b36;
+}
+
+.contentRegionScroller-2_GT_N {
+  background: #073642;
+}
+
+.closeButton-PCZcma, .keybind-13vtq8, .iconContainer-6pgShY svg path {
+  filter: invert(38%) sepia(95%) saturate(403%) hue-rotate(161deg) brightness(106%) contrast(98%) !important;
+}
+
+/* user profile popout */
+.userPopoutInner-1hXSeY, .addButton-1_dZYu, .container-2O1UgZ {
+  background: #002b36;
+}
+
+.userPopoutOverlayBackground-dKOOda {
+  background: #073642	;
+}
+
+.inner-2pOSmK {
+      background: #061b20;
+}
